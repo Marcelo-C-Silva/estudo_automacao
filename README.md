@@ -46,8 +46,8 @@ pip install selenium beautifulsoup4 requests pillow python-docx webdriver-manage
 1. Clone ou baixe o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/automacao-logos.git
-cd automacao-logos
+git clone https://github.com/Marcelo-C-Silva/estudo_automacao.git
+cd estudo_automacao
 ```
 
 2. Abra o script `coletar_logos.py` e configure a lista de sites:
